@@ -1,6 +1,6 @@
 Rainbow
 red
-blue
+purple
 yellow
 white
 orange
